@@ -1,6 +1,6 @@
 # Crop Data Tables
 
-This project displays crop data in two different tables using React and Mantine. You can toggle between the tables using a switch.
+This project displays crop data in two different tables using React, TypeScript and Mantine. You can toggle between the tables using a switch.
 
 # Screenshots
 
