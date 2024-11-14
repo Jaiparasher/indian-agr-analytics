@@ -14,8 +14,8 @@ This project displays crop data in two different tables using React and Mantine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Jaiparasher/indian-agriculture-analytics.git
-   cd indian-agriculture-analytics
+   git clone https://github.com/Jaiparasher/indian-agr-analytics.git
+   cd indian-agr-analytics
    ```
 
 2. Install dependencies:
